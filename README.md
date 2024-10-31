@@ -1,24 +1,24 @@
-# Alcohol-Impact-On-Students
+# *Alcohol-Impact-On-Students*
 
-# Abstract
+## *Abstract*
 
-# Introduction
-  #  1. Baground
+## Introduction
+  ###  1. Baground
      
-   # 2. Problem Statement
+   ### 2. Problem Statement
      
-   # 3.  Reasearch Questions
+   ### 3.  Reasearch Questions
 
- # Objetive
+ ## Objetive
 
-# Focus on SDG
+## Focus on SDG
 
-# Methodology
+## Methodology
 
-# Sources
+## Sources
 
-# Findings
+## Findings
 
-# Conclusion
+## Conclusion
 
-# References
+## References
