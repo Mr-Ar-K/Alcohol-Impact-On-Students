@@ -1,9 +1,9 @@
 # *Alcohol-Impact-On-Students*
 
 ## Table Of Content
-* [Abstract](Abstract)
-* [Introduction](Introduction)
-  * [1. Baground](1.Baground)
+* [Abstract](#abstract)
+* [Introduction](#introduction)
+  * [1. Baground](#1.baground)
 ## *Abstract*
 
 ## Introduction
