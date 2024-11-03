@@ -1,7 +1,7 @@
 # *Alcohol-Impact-On-Students*
 
 ## Table Of Content
-* [Abstract](https://github.com/Mr-Ar-K/Alcohol-Impact-On-Students/edit/main/README.md#abstract)
+* [Abstract](#abstract)
 * [1. Introduction](#1.introduction)
   * [Baground](#baground)
   * [Problem Statement](#problemstatement)
