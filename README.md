@@ -1,9 +1,15 @@
 # *Alcohol-Impact-On-Students*
 
 ## Table Of Content
-* [Abstract](#abstract)
-* [Introduction](#introduction)
-  * [1. Baground](#1.baground)
+* [Abstract](https://github.com/Mr-Ar-K/Alcohol-Impact-On-Students/edit/main/README.md#abstract)
+* [1. Introduction](#1.introduction)
+  * [Baground](#baground)
+  * [Problem Statement](#problemstatement)
+ * [2. Objective](#2.objective)
+ * [3. Focus On SDG](#3.focusonsdg)
+ * [4. Sources](#4.sources)
+ * [5. Methodology](#5.methodology)
+    * [a. Data Collection](
 ## *Abstract*
 
 ## Introduction
